@@ -76,7 +76,7 @@ h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Major Mono Display', monospace;
 }
 
 #header h1 a,
@@ -385,7 +385,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #4ceb95;
+  background: #87CEFA;
   margin: 4px 10px;
 }
 
@@ -680,8 +680,8 @@ section .container {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #18d26e;
-  border: 2px solid #18d26e;
+  background: #87CEFA;
+  border: 2px solid #87CEFA;
 }
 
 /*--------------------------------------------------------------
@@ -698,7 +698,7 @@ section .container {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #18d26e;
+  background: #87CEFA;
   border-radius: 5px;
   transition: all 0.3s ease-out 0s;
   display: flex;
@@ -756,7 +756,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon::before {
-  background: #35e888;
+  background: #87CEFA;
 }
 
 .services .icon-box:hover h4 a,
